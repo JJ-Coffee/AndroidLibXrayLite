@@ -9,4 +9,4 @@ require (
 )
 
 
-replace github.com/xtls/xray-core => github.com/djoeni/xray-core v1.8.6
+replace github.com/xtls/xray-core => github.com/JJ-Coffee/xray-core v1.8.6
