@@ -21,7 +21,7 @@ import (
 	v2filesystem "github.com/xtls/xray-core/common/platform/filesystem"
 	v2stats "github.com/xtls/xray-core/features/stats"
 	v2serial "github.com/xtls/xray-core/infra/conf/serial"
-	_ "github.com/JJ-Coffee/xtls/main/distro/all"
+	_ "github.com/xtls/xray-core/main/distro/all"
 	v2internet "github.com/xtls/xray-core/transport/internet"
 
 	v2applog "github.com/xtls/xray-core/app/log"
