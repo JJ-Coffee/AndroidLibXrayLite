@@ -16,16 +16,16 @@ import (
 
 	mobasset "golang.org/x/mobile/asset"
 
-	v2core "github.com/xtls/xray-core/core"
-	v2net "github.com/xtls/xray-core/common/net"
-	v2filesystem "github.com/xtls/xray-core/common/platform/filesystem"
-	v2stats "github.com/xtls/xray-core/features/stats"
-	v2serial "github.com/xtls/xray-core/infra/conf/serial"
-	_ "github.com/xtls/xray-core/main/distro/all"
-	v2internet "github.com/xtls/xray-core/transport/internet"
+	v2core "github.com/JJ-Coffee/xray-core/core"
+	v2net "github.com/JJ-Coffee/xray-core/common/net"
+	v2filesystem "github.com/JJ-Coffee/xray-core/common/platform/filesystem"
+	v2stats "github.com/JJ-Coffee/xray-core/features/stats"
+	v2serial "github.com/JJ-Coffee/xray-core/infra/conf/serial"
+	_ "github.com/JJ-Coffee/xray-core/main/distro/all"
+	v2internet "github.com/JJ-Coffee/xray-core/transport/internet"
 
-	v2applog "github.com/xtls/xray-core/app/log"
-	v2commlog "github.com/xtls/xray-core/common/log"
+	v2applog "github.com/JJ-Coffee/xray-core/app/log"
+	v2commlog "github.com/JJ-Coffee/xray-core/common/log"
 )
 
 const (
