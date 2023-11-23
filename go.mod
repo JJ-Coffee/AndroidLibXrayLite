@@ -7,3 +7,6 @@ require (
 	golang.org/x/mobile v0.0.0-20221020085226-b36e6246172e
 	golang.org/x/sys v0.1.0
 )
+
+
+replace github.com/xtls/xray-core => github.com/djoeni/xray-core v1.8.6
